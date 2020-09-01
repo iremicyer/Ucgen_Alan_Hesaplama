@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Ucgen_Alan_Hesaplama\Ucgen_Alan_Hesaplama\bin\Debug\netcoreapp3.1\Ucgen_Alan_Hesaplama.exe
+C:\Users\Administrator\source\repos\Ucgen_Alan_Hesaplama\Ucgen_Alan_Hesaplama\bin\Debug\netcoreapp3.1\Ucgen_Alan_Hesaplama.deps.json
+C:\Users\Administrator\source\repos\Ucgen_Alan_Hesaplama\Ucgen_Alan_Hesaplama\bin\Debug\netcoreapp3.1\Ucgen_Alan_Hesaplama.runtimeconfig.json
+C:\Users\Administrator\source\repos\Ucgen_Alan_Hesaplama\Ucgen_Alan_Hesaplama\bin\Debug\netcoreapp3.1\Ucgen_Alan_Hesaplama.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Ucgen_Alan_Hesaplama\Ucgen_Alan_Hesaplama\bin\Debug\netcoreapp3.1\Ucgen_Alan_Hesaplama.dll
+C:\Users\Administrator\source\repos\Ucgen_Alan_Hesaplama\Ucgen_Alan_Hesaplama\bin\Debug\netcoreapp3.1\Ucgen_Alan_Hesaplama.pdb
+C:\Users\Administrator\source\repos\Ucgen_Alan_Hesaplama\Ucgen_Alan_Hesaplama\obj\Debug\netcoreapp3.1\Ucgen_Alan_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Ucgen_Alan_Hesaplama\Ucgen_Alan_Hesaplama\obj\Debug\netcoreapp3.1\Ucgen_Alan_Hesaplama.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Ucgen_Alan_Hesaplama\Ucgen_Alan_Hesaplama\obj\Debug\netcoreapp3.1\Ucgen_Alan_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ucgen_Alan_Hesaplama\Ucgen_Alan_Hesaplama\obj\Debug\netcoreapp3.1\Ucgen_Alan_Hesaplama.dll
+C:\Users\Administrator\source\repos\Ucgen_Alan_Hesaplama\Ucgen_Alan_Hesaplama\obj\Debug\netcoreapp3.1\Ucgen_Alan_Hesaplama.pdb
+C:\Users\Administrator\source\repos\Ucgen_Alan_Hesaplama\Ucgen_Alan_Hesaplama\obj\Debug\netcoreapp3.1\Ucgen_Alan_Hesaplama.genruntimeconfig.cache

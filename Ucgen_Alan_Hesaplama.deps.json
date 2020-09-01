@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ucgen_Alan_Hesaplama/1.0.0": {
+        "runtime": {
+          "Ucgen_Alan_Hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ucgen_Alan_Hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
